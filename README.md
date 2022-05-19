@@ -1,6 +1,10 @@
 # TOP_Landing_Page
 Landing Page assignment from The Odin Project
 
+Published page:
+
+https://campbellsoupbs.github.io/TOP_Landing_Page/
+
 
 Image credits:
 
